@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deb399b2.css",
+    "main.js": "/static/js/main.817cb601.js",
+    "static/media/OilLockLogo.svg": "/static/media/OilLockLogo.22a3fdd6343d2ba9d29db268fa4f7c24.svg",
+    "index.html": "/index.html",
+    "main.deb399b2.css.map": "/static/css/main.deb399b2.css.map",
+    "main.817cb601.js.map": "/static/js/main.817cb601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb399b2.css",
+    "static/js/main.817cb601.js"
+  ]
+}
