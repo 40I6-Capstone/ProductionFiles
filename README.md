@@ -1,8 +1,5 @@
 # Setting Up Files
 
-## Start Up Server
-Launch `./Server/Server.exe`
-
 ## StartUp Webapp
 1. Open Terminal
 2. cd into folder
